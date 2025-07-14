@@ -51,3 +51,7 @@ This system simulates the basic operations of a real-world library using a Comma
 
 ## 🔗 GitHub Repo Link
 https://github.com/FuadAbbaszade/Team10_LibraryManagement
+=======
+# Team10_LibraryManagement
+Final Project for CSCI1202 - Library Management System
+
